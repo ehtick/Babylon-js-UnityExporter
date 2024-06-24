@@ -94,7 +94,7 @@ module PROJECT {
 
 The Unity Editor plugin lets BabylonJS artists, designers, and developers collaborate to create amazing immersive and interactive experiences.
 
-[Getting Started](https://www.youtube.com/watch?v=d1spQKztIZI&list=PLQjLia99I6qDtO16j-ia64xC5r8ps09bB&index=1&pp=gAQBiAQB)
+[Getting Started Video](https://www.youtube.com/watch?v=d1spQKztIZI&list=PLQjLia99I6qDtO16j-ia64xC5r8ps09bB&index=1&pp=gAQBiAQB)
 
 
 # Unity Starter Assets (Pro Features)
@@ -111,11 +111,11 @@ The Babylon Toolkit Pro Classes allows out of the box features that help you jum
 - Video player components
 - Terrain building tools
 
-[Using Starter Assets](https://www.youtube.com/watch?v=qrXDwPhQNfY&list=PLQjLia99I6qDtO16j-ia64xC5r8ps09bB&index=2&t=53s&pp=gAQBiAQB)
+[Using Starter Assets Video](https://www.youtube.com/watch?v=qrXDwPhQNfY&list=PLQjLia99I6qDtO16j-ia64xC5r8ps09bB&index=2&t=53s&pp=gAQBiAQB)
 
-[Pro Edition Features](https://www.youtube.com/watch?v=YTlp_ut53wo&list=PLQjLia99I6qDtO16j-ia64xC5r8ps09bB&index=3&pp=gAQBiAQB)
+[Pro Edition Features Video](https://www.youtube.com/watch?v=YTlp_ut53wo&list=PLQjLia99I6qDtO16j-ia64xC5r8ps09bB&index=3&pp=gAQBiAQB)
 
-[Example Playground](https://playground.babylonjs.com/index.html?UnityToolkit#RNACBR)
+[Starter Assets Playground](https://playground.babylonjs.com/index.html?UnityToolkit#RNACBR)
 
 
 # Advanced Game Development (Premium Addons)
@@ -130,5 +130,5 @@ The Babylon Toolkit Premium Addons provide more advanced script components for t
 
 [Burnout Dev Blog: Part Two](https://www.youtube.com/watch?v=d25x5hlhL4A&list=PLQjLia99I6qAaof4M3KDkL59jQ2oqAHUb&index=2&t=571s&pp=gAQBiAQB)
 
-[Burnout Dev: Project Demo](https://www.babylontoolkit.com/racer)
+[Burnout Project Demo](https://www.babylontoolkit.com/racer)
 
