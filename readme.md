@@ -99,7 +99,7 @@ The Unity Editor plugin lets BabylonJS artists, designers, and developers collab
 
 # Unity Starter Assets (Pro Features)
 
-The Babylon Toolkit Pro Classes allows out of the box features that help you jump start your next native BabylonJS project.
+The Babylon Toolkit Pro Classes allows out of the box features that help you jump start your next project.
 
 - Rigidbody physics system
 - Animation state machines
