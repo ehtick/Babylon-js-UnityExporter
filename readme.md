@@ -87,34 +87,48 @@ module PROJECT {
     }
 }
 ```
-Example Playground: https://playground.babylonjs.com/index.html?UnityToolkit#00G5R9
+[Example Playground](https://playground.babylonjs.com/index.html?UnityToolkit#00G5R9)
 
 
 # Getting Started
 
-Some verbage about using the Unity Editor and its eco system goes here
+The Unity Editor plugin lets BabylonJS artists, designers, and developers collaborate to create amazing immersive and interactive experiences.
 
-[ Getting Started Video Goes Here ]
+[Getting Started](https://www.youtube.com/watch?v=d1spQKztIZI&list=PLQjLia99I6qDtO16j-ia64xC5r8ps09bB&index=1&pp=gAQBiAQB)
 
 
 # Unity Starter Assets (Pro Features)
 
-Some verbage about using the Pro Features goes here
+The Babylon Toolkit Pro Classes allows out of the box features that help you jump start your next native BabylonJS project.
 
-[ Pro Feature List Goes Here]
+- Rigidbody physics system
+- Animation state machines
+- Player character controllers
+- Recast navigation meshes
+- Detour path following
+- Raycast wheeled vehicles
+- Audio source components
+- Video player components
+- Terrain building tools
 
-[ Unity Assets Video Goes Here ]
+[Using Starter Assets](https://www.youtube.com/watch?v=qrXDwPhQNfY&list=PLQjLia99I6qDtO16j-ia64xC5r8ps09bB&index=2&t=53s&pp=gAQBiAQB)
 
-Example Playground: https://playground.babylonjs.com/index.html?UnityToolkit#RNACBR
+[Pro Edition Features](https://www.youtube.com/watch?v=YTlp_ut53wo&list=PLQjLia99I6qDtO16j-ia64xC5r8ps09bB&index=3&pp=gAQBiAQB)
+
+[Example Playground](https://playground.babylonjs.com/index.html?UnityToolkit#RNACBR)
 
 
-# Example Racing System (Premium Addons)
+# Advanced Game Development (Premium Addons)
 
-Some verbage about using the Premium Addons goes here
+The Babylon Toolkit Premium Addons provide more advanced script components for that next level game development experience. 
 
-[ Premium Addons List Goes Here]
+- Networking components
+- Player avatar components
+- Managed racing components
 
-[ Example Vehicle Video Goes Here ]
+[Burnout Dev Blog: Part One](https://www.youtube.com/watch?v=jsMJp00d1E8&list=PLQjLia99I6qAaof4M3KDkL59jQ2oqAHUb&index=1&t=665s&pp=gAQBiAQB)
 
-Vehicle Project Demo: https://www.babylontoolkit.com/racer
+[Burnout Dev Blog: Part Two](https://www.youtube.com/watch?v=d25x5hlhL4A&list=PLQjLia99I6qAaof4M3KDkL59jQ2oqAHUb&index=2&t=571s&pp=gAQBiAQB)
+
+[Burnout Dev: Project Demo](https://www.babylontoolkit.com/racer)
 
